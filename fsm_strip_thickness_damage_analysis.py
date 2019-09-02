@@ -14,7 +14,7 @@ import numpy as np
 from numpy.lib.recfunctions import append_fields
 
 
-__version__ = '1.0.0'
+__version__ = '1.0.1'
 
 
 FIGURE_SIZE = (11.7, 8.3) # In inches
